@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Кузнецова](https://up.htmlacademy.ru/javascript/19/user/1054491).
-* Наставник: `Неизвестно`.
+* Наставник: [Александра Малинов](https://htmlacademy.ru/profile/id40204).
 
 ---
 
